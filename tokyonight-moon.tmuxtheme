@@ -1,0 +1,13 @@
+# --> Tokyonight (Moon)
+thm_bg="#222436" # background
+thm_fg="#c8d3f5" # foreground
+thm_black="#1e2030" # active_tab_foreground
+thm_gray="#545c7e" # inactive_tab_foreground
+thm_red="#ff757f" # color1
+thm_green="#c3e88d" # color2
+thm_yellow="#ffc777" # color3
+thm_blue="#82aaff" # color4
+thm_pink="#c099ff" # color5
+thm_cyan="#86e1fc" # color6
+thm_orange="#ff966c" # color16
+

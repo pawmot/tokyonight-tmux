@@ -1,8 +1,8 @@
-# --> Tokyonight (Night)
-thm_bg="#1a1b26" # background
+# --> Tokyonight (Storm)
+thm_bg="#24283b" # background
 thm_fg="#c0caf5" # foreground
-thm_black="#16161e" # active_tab_foreground
-thm_gray="#292e42" # inactive_tab_foreground
+thm_black="#1f2335" # active_tab_foreground
+thm_gray="#545c7e" # inactive_tab_foreground
 thm_red="#f7768e" # color1
 thm_green="#9ece6a" # color2
 thm_yellow="#e0af68" # color3
