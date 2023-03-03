@@ -1,0 +1,11 @@
+# --> Tokyonight (Night)
+thm_bg="#1a1b26" # background
+thm_fg="#c0caf5" # foreground
+thm_black="#16161e" # active_tab_foreground
+thm_gray="#292e42" # inactive_tab_foreground
+thm_red="#f7768e" # color1
+thm_green="#9ece6a" # color2
+thm_yellow="#e0af68" # color3
+thm_blue="#7aa2f7" # color4
+thm_pink="#bb9af7" # color5
+thm_cyan="#7dcfff" # color6
