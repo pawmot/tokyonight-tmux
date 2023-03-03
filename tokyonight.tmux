@@ -64,9 +64,9 @@ main() {
 
   set status-left "#{?client_prefix,#[bg=$thm_red],#[bg=$thm_green]}#[fg=$thm_bg,bold] #S #{?client_prefix,#[fg=$thm_red],#[fg=$thm_green]}#[bg=$thm_bg]"
 
-  setw window-status-format "#[fg=$thm_blue,bg=$thm_bg]#[fg=$thm_bg,bg=$thm_blue] #I  #W #[fg=$thm_blue,bg=$thm_bg]"
+  setw window-status-format "#[fg=$thm_blue,bg=$thm_bg]#[fg=$thm_bg,bg=$thm_blue] #I #[fg=$thm_blue,bg=$thm_gray] #W #[fg=$thm_gray,bg=$thm_bg]"
 
-  setw window-status-current-format "#[fg=$thm_orange,bg=$thm_bg]#[fg=$thm_bg,bg=$thm_orange,bold] #I  #W #[fg=$thm_orange,bg=$thm_bg]"
+  setw window-status-current-format "#[fg=$thm_orange,bg=$thm_bg]#[fg=$thm_bg,bg=$thm_orange,bold] #I #[fg=$thm_orange,bg=$thm_gray] #W #[fg=$thm_gray,bg=$thm_bg]"
 
   set status-right "#[fg=$thm_gray,bg=$thm_bg]#[fg=$thm_blue,bg=$thm_gray]  %a %d/%m 󱑂 %R #(date +%Z) "
 
