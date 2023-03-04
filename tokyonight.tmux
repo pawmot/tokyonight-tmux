@@ -73,7 +73,7 @@ main() {
   # --------=== Modes
 
   setw clock-mode-colour "${thm_blue}"
-  setw mode-style "fg=${thm_pink} bg=${thm_black4} bold"
+  setw mode-style "fg=${thm_cyan} bg=${thm_gray} bold"
 }
 
 main "$@"
