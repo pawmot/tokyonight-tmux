@@ -37,6 +37,7 @@ main() {
       < "${PLUGIN_DIR}/tokyonight-${theme}.tmuxtheme"
 
   source "${PLUGIN_DIR}/tokyonight-selected-theme.tmuxtheme"
+  rm "${PLUGIN_DIR}/tokyonight-selected-theme.tmuxtheme"
 
   # status
   set status "on"
